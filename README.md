@@ -1,1 +1,1 @@
-Storage for imgs.
+Storage for imgs
